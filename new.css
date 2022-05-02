@@ -1,0 +1,147 @@
+body
+{
+    margin: auto;
+}#search{
+    height: 500;
+    width: 100%;
+    background-image: url('top.jpeg');
+    background-size: cover;
+    background-size: 100% 600px;
+    background-repeat: no-repeat;
+
+}
+#brand{
+    display: inline-block;
+    font-size: 50px;
+    margin-left: 5%;
+    color: white;
+    font-family: cursive;
+    font-weight: bolder;
+    
+    
+
+}
+.social{
+    display: inline-block;
+    margin-left: 70%;
+}
+.socialIcon{
+
+    height: 50px;
+    width: 50px;
+}
+#Logo
+{
+    height: 150px;
+    width: 150px;
+    background-color:maroon;
+    border-radius: 50%;
+    margin-top: 5%;
+    margin-left: 45%;
+    text-align: center;
+    font-size: 80px;
+    
+}
+#logo>span{
+    color:peachpuff;
+    font-style: italic;
+    margin-top: 2%;
+    margin-left: -3%;
+    position: absolute;
+    text-align: center;
+}
+
+#quote
+{
+    font-size: 40px;
+    margin: auto;
+    color: black;
+    font-style: oblique;
+    font-weight: bolder;
+    background-color: white;
+    width: 31%;
+    margin-top: 2%;
+    opacity: 0.6;
+    
+}
+#dropdown
+{
+    height: 60px;
+    width: 45%;
+    margin-left: 29%;
+    margin-top: 1%;
+}
+.select
+{
+    height: 120px;
+    width: 49%;
+    
+}
+#secondselect{
+    height: 60px;
+    width: 49%
+}
+    
+#quicksearch{
+    height: 500px;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+    
+}
+#Heading{
+    font-size: 30px;
+    font-weight: 600;
+    display: block;
+    font-family: Verdana, Geneva, Tahoma,;
+    color: steelblue;
+    margin-left: 2%;
+}
+#anotherheading{
+    line-height: 3;
+    font-family: initial;
+    color:darkslategray;
+    font-size: 15px;
+    margin-left: 2%;
+
+}
+.Box{
+    height: 200px;
+    width: 30%;
+    display: inline-block;
+    margin-left: 2%;
+    margin-top: 1%;
+    box-shadow: 10px 20px 10px gray;
+}
+.Box:hover{
+    transform: scale(1.1);
+    background-color: lightgoldenrodyellow;
+}
+.insidebox1{
+    width: 42%;
+    float: left;
+    
+    
+
+}
+.insidebox1 > img{
+    height: 200px;
+    width: 100%;
+}
+.insidebox2{
+    font-size: 12px;
+    float: left;
+    margin-left: 3%;
+    margin-top: 10%;
+
+}
+.componentheading{
+    font-size: 25px;
+    color: orange;
+}
+.componentsubheading{
+    margin-top: 10%;
+    font-size: 12px;
+}
+    
+
